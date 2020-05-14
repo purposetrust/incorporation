@@ -1,6 +1,6 @@
 *Purpose Trust is a legal structure for global platform companies.*
 
-As an alternative to the Delaware C Corp, it’s designed for businesses where rent extraction is less viable than creating value in and for the underlying assets - for example real estate, ride hailing, or farming.
+As an alternative to the [Delaware C Corp](https://en.wikipedia.org/wiki/Delaware_General_Corporation_Law), it’s designed for businesses where rent extraction is less viable than creating value in and for the underlying assets - for example real estate, ride hailing, or farming.
 
 Its cooperative core leads to better decision making, while retaining the benefits of growth, swift decisions, and standardized operations across geographies. This is not without precedent: the world's largest fund manager, [Vanguard](https://about.vanguard.com/investment-stewardship/perspectives-and-commentary/what_how_why.pdf), is run in a similar way, as are many other successful companies.
 
