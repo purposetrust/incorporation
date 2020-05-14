@@ -6,15 +6,15 @@ Its cooperative core leads to better decision making, while retaining the benefi
 
 The three core principles are:
 
-*Sovereign*
+**Sovereign**
 
 The Trust owns itself with a fiduciary duty to purpose and the local asset owners it provides services to. No rent extraction, no outside shareholders, no exit expectation.
 
-*Co-Determination*
+**Co-Determination**
 
 Labor, capital, and trustees have a carefully balanced equal say, with all three constituents forming the board, with veto powers, and labor being elected through unionization.
 
-*Subsidiarity*
+**Subsidiarity**
 
 Maximise decision making and value creation on the local level without sacrificing functioning governance, with services and not authority flowing from the top down.
 
